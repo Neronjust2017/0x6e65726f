@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 
 - 🌱 I'm a programmer，an AI enthusiast
 
-![Neronjust2017's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neronjust2017&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neronjust2017&layout=compact&theme=tokyonight)
+![Neronjust2017's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neronjust2017&show_icons=true&count_private=true&theme=tokyonight) 
